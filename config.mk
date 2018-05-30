@@ -52,3 +52,7 @@ PRODUCT_PACKAGES += \
     TealAccent \
     YellowAccent \
     WhiteAccent
+
+# fonts
+PRODUCT_PACKAGES += \
+    LiteFonts
