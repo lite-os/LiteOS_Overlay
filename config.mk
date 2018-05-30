@@ -14,7 +14,7 @@
 
 # global
 PRODUCT_PACKAGE_OVERLAYS += \
-    packages/LiteOS/Overlay/global
+    LiteOS/overlay/global
 
 # themes
 # Black
