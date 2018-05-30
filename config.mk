@@ -17,3 +17,7 @@ PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += LiteOS/overlay/global
 # global
 PRODUCT_PACKAGE_OVERLAYS += \
     LiteOS/overlay/global
+
+# fonts
+PRODUCT_PACKAGES += \
+    LiteFonts
