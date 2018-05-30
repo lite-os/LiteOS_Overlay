@@ -14,17 +14,41 @@
 
 # global
 PRODUCT_PACKAGE_OVERLAYS += \
-	packages/LiteOS/Overlay/global
+    packages/LiteOS/Overlay/global
 
 # themes
 # Black
 PRODUCT_PACKAGES += \
-	SettingsBlackTheme \
-	SystemBlackTheme \
-	SystemUIBlackTheme
+    SettingsBlackTheme \
+    SystemBlackTheme \
+    SystemUIBlackTheme
 
 # Dark
 PRODUCT_PACKAGES += \
-	SettingsDarkTheme \
-	SystemDarkTheme \
-	SystemUIDarkTheme
+    SettingsDarkTheme \
+    SystemDarkTheme \
+    SystemUIDarkTheme
+
+# Accents
+PRODUCT_PACKAGES += \
+    AmberAccent \
+    BlackAccent \
+    BlueAccent \
+    BlueGreyAccent \
+    BrownAccent \
+    CyanAccent \
+    DeepOrangeAccent \
+    DeepPurpleAccent \
+    GreenAccent \
+    GreyAccent \
+    IndigoAccent \
+    LightBlueAccent \
+    LightGreenAccent \
+    LimeAccent \
+    OrangeAccent \
+    PinkAccent \
+    PurpleAccent \
+    RedAccent \
+    TealAccent \
+    YellowAccent \
+    WhiteAccent
