@@ -27,7 +27,8 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     SettingsDarkTheme \
     SystemDarkTheme \
-    SystemUIDarkTheme
+    SystemUIDarkTheme \
+    SystemUIStockDarkTheme
 
 # Accents
 PRODUCT_PACKAGES += \
