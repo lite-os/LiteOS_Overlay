@@ -18,4 +18,10 @@
     <!-- QS edit page background color -->
     <color name="qs_edit_item_decoration_bg">@*android:color/background_floating_material_dark</color>
 
+    <!-- Notifications background -->
+    <color name="notification_material_background_color">@*android:color/background_floating_material_dark</color> 
+    <color name="notification_material_background_dark_color">@*android:color/background_floating_material_dark</color> 
+    <color name="notification_material_background_dimmed_color">@*android:color/background_floating_material_dark</color> 
+    <color name="notification_material_background_low_priority_color">@*android:color/background_floating_material_dark</color>
+
 </resources>
