@@ -14,5 +14,22 @@
      limitations under the License.
 -->
 <resources>
-
+    <color name="primary_color">@*android:color/black</color>
+    <color name="action_bar_background_color_dark">@*android:color/black</color>
+    <color name="material_grey_50">#E6525050</color>
+    <color name="primary_text_default_material_light">@android:color/white</color>
+    <color name="contact_picker_background">@*android:color/black</color>
+    <color name="contact_picker_search_background">@*android:color/black</color>
+    <color name="google_blue_800">@*android:color/black</color>
+    <color name="contact_picker_group_create_label_text">@android:color/white</color>
+    <color name="top_contact_list_text_primary">@android:color/white</color>
+    <color name="ic_launcher_background">@*android:color/black</color>
+    <color name="sim_selector_background_end">#CC000000</color>
+	<color name="sim_selector_background_start">#CC000000</color>
+	<color name="sim_selector_text_primary">@android:color/white</color>
+	<color name="google_blue_grey_50">@*android:color/black</color>
+	<color name="google_blue_900">@*android:color/black</color>
+	<color name="ripple_material_light">@*android:color/black</color>
+	<color name="message_bubble_color_selected">#525050</color>
+	<color name="translucent_white">#80000000</color>
 </resources>
