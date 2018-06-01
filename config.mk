@@ -21,7 +21,8 @@ PRODUCT_PACKAGE_OVERLAYS += \
 PRODUCT_PACKAGES += \
     SettingsBlackTheme \
     SystemBlackTheme \
-    SystemUIBlackTheme
+    SystemUIBlackTheme \
+    GoogleMessagingBlackTheme
 
 # Dark
 PRODUCT_PACKAGES += \
