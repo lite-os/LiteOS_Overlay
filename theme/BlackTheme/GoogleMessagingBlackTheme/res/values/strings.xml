@@ -13,15 +13,8 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <!-- QS edit page background color -->
-    <color name="qs_edit_item_decoration_bg">@*android:color/black</color>
-
-    <!-- Notifications background -->
-    <color name="notification_material_background_color">@*android:color/black</color> 
-    <color name="notification_material_background_dark_color">@*android:color/black</color> 
-    <color name="notification_material_background_dimmed_color">@*android:color/black</color> 
-    <color name="notification_material_background_low_priority_color">@*android:color/black</color>
+    <string name="messaging_black_theme">Black Theme Google Messaging</string>
 
 </resources>
