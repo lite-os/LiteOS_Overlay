@@ -23,5 +23,8 @@
     <color name="notification_material_background_dark_color">@*android:color/black</color> 
     <color name="notification_material_background_dimmed_color">@*android:color/black</color> 
     <color name="notification_material_background_low_priority_color">@*android:color/black</color>
-
+    <color name="notification_shade_background_color">#CC000000</color>
+    <color name="notification_ripple_untinted_color">@android:color/white</color>
+    <color name="notification_gear_color">@android:color/white</color>
+    <color name="assist_orb_color">@*android:color/black</color>
 </resources>
