@@ -68,5 +68,11 @@
 
     <color name="background_floating_material_dark">#ff111111</color>
 
+    <color name="dot_qs_active">#ffffff</color>
+    <color name="dot_qs_inactive">#bebebe</color>
+    <color name="dot_qs_unavailable">#706f6f</color>
+    <color name="dot_qs_circle_active">?android:attr/colorAccent</color>
+    <color name="dot_qs_circle_inactive">#212121</color>
+
 </resources>
 
