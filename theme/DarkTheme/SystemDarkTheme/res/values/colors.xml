@@ -76,5 +76,11 @@
     <!-- Two target preference vertical divider color -->
     <color name="list_divider_dark">#64eeeeee</color>
 
+    <color name="dot_qs_active">#ffffff</color>
+    <color name="dot_qs_inactive">#cacaca</color>
+    <color name="dot_qs_unavailable">#706f6f</color>
+    <color name="dot_qs_circle_active">?android:attr/colorAccent</color>
+    <color name="dot_qs_circle_inactive">#4b4b4b</color>
+
 </resources>
 
