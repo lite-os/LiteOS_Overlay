@@ -92,4 +92,22 @@
     <!-- Specifies the path that is used by AdaptiveIconDrawable class to crop launcher icons. -->
     <string name="config_icon_mask" translatable="false">"M50 0C77.6 0 100 22.4 100 50C100 77.6 77.6 100 50 100C22.4 100 0 77.6 0 50C0 22.4 22.4 0 50 0Z"</string>
 
+    <!-- Defines the default set of global actions. Actions may still be disabled or hidden based
+         on the current state of the device.
+         Each item must be one of the following strings:
+         "power" = Power off
+         "settings" = An action to launch settings
+         "airplane" = Airplane mode toggle
+         "bugreport" = Take bug report, if available
+         "silent" = silent mode
+         "users" = list of users
+         "restart" = restart device
+         "lockdown" = Lock down device until the user authenticates
+         "logout" =  Logout the current user
+         -->
+    <string-array translatable="false" name="config_globalActionsList">
+        <item>power</item>
+        <item>restart</item>
+    </string-array>
+
 </resources>
