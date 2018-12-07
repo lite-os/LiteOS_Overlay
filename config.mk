@@ -17,5 +17,3 @@ PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += LiteOS/overlay/global
 # global
 PRODUCT_PACKAGE_OVERLAYS += \
     LiteOS/overlay/global
-
-include LiteOS/overlay/themes.mk
