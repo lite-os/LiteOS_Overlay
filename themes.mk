@@ -22,8 +22,7 @@ PRODUCT_PACKAGES += \
 # Themes Black
 PRODUCT_PACKAGES += \
     SettingsBlackTheme \
-    SystemBlackTheme \
-    SystemUIBlackTheme
+    SystemBlackTheme
 
 # Overlays
 PRODUCT_PACKAGES += \
