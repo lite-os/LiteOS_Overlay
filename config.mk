@@ -21,3 +21,8 @@ PRODUCT_PACKAGE_OVERLAYS += \
 # fonts
 PRODUCT_PACKAGES += \
     LiteFonts
+
+# theme
+PRODUCT_PACKAGES += \
+    SystemDarkThemeOverlay \
+    SettingsDarkThemeOverlay
